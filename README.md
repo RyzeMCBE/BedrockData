@@ -1,4 +1,7 @@
 # BedrockData
+
+Actualizado para Minecraft Bedrock **1.26.52**, protocolo **2193**. Procedencia de los datos: [VERSION.md](VERSION.md).
+
 Blobs of data generated from Minecraft: Bedrock Edition used by PocketMine-MP
 
 <table>
