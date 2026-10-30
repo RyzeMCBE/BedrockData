@@ -1,7 +1,15 @@
 {
-    "name": "pocketmine/bedrock-data",
-    "description": "Blobs of data generated from Minecraft: Bedrock Edition, used by PocketMine-MP",
+    "name": "ryzemcbe/bedrock-data",
+    "description": "RyzeMCBE Bedrock Edition data assets for RyzeMP and PocketMine-MP compatible projects",
     "type": "library",
     "license": "CC0-1.0",
-    "require": {}
+    "require": {},
+    "homepage": "https://github.com/RyzeMCBE/BedrockData",
+    "replace": {
+        "pocketmine/bedrock-data": "self.version"
+    },
+    "support": {
+        "source": "https://github.com/RyzeMCBE/BedrockData",
+        "issues": "https://github.com/RyzeMCBE/BedrockData/issues"
+    }
 }
